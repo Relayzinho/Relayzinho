@@ -1,7 +1,5 @@
 - 👋 Eai pessoal, eu sou @Relayzinho
-- 👀 I’m interested in ...
 - 🌱 Atualmente estou aprendendo JS, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contate-me no email: gcardososilva@hotmail.com
 
 <div align="center">
